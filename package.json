@@ -1,0 +1,23 @@
+{
+    "name": "node-red-contrib-require",
+    "version": "0.1.0",
+    "description": "A Node-Red node to require third-party module",
+    "node-red": {
+        "nodes": {
+            "require": "require.js"
+        }
+    },
+    "author": "ArcherGu",
+    "license": "MIT",
+    "keywords": [
+        "node-red",
+        "node",
+        "require",
+        "npm"
+    ],
+    "homepage": "https://github.com/ArcherGu/node-red-contrib-require",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ArcherGu/node-red-contrib-require.git"
+    }
+}

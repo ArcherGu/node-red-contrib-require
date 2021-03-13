@@ -1,0 +1,8 @@
+{
+    "require": {
+        "label": {
+            "module": "模块",
+            "mounted": "挂载至"
+        }
+    }
+}

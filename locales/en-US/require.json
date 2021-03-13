@@ -1,0 +1,8 @@
+{
+    "require": {
+        "label": {
+            "module": "Module",
+            "mounted": "Mounted"
+        }
+    }
+}
